@@ -1,5 +1,3 @@
-; HERBAUX Julien - EXPOSITO RAGAIGNE Axel
-
 section .data
     sum: db 0
     buffer: db 0 ; buffer for output
